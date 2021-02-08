@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Expertos/static/css/main.552985a9.chunk.css",
+    "main.js": "/Expertos/static/js/main.c7b74834.chunk.js",
+    "main.js.map": "/Expertos/static/js/main.c7b74834.chunk.js.map",
+    "runtime-main.js": "/Expertos/static/js/runtime-main.826826ad.js",
+    "runtime-main.js.map": "/Expertos/static/js/runtime-main.826826ad.js.map",
+    "static/js/2.e0a9754b.chunk.js": "/Expertos/static/js/2.e0a9754b.chunk.js",
+    "static/js/2.e0a9754b.chunk.js.map": "/Expertos/static/js/2.e0a9754b.chunk.js.map",
+    "static/js/3.421321d9.chunk.js": "/Expertos/static/js/3.421321d9.chunk.js",
+    "static/js/3.421321d9.chunk.js.map": "/Expertos/static/js/3.421321d9.chunk.js.map",
+    "index.html": "/Expertos/index.html",
+    "static/css/main.552985a9.chunk.css.map": "/Expertos/static/css/main.552985a9.chunk.css.map",
+    "static/js/2.e0a9754b.chunk.js.LICENSE.txt": "/Expertos/static/js/2.e0a9754b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.826826ad.js",
+    "static/js/2.e0a9754b.chunk.js",
+    "static/css/main.552985a9.chunk.css",
+    "static/js/main.c7b74834.chunk.js"
+  ]
+}
