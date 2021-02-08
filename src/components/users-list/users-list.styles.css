@@ -1,0 +1,8 @@
+.userslist {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 70vw;
+  margin: 0px auto;
+  margin-top: 330px;
+}
